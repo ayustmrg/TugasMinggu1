@@ -92,7 +92,7 @@ Perbedaan Var dan Let :
 * Let dikenalkan pada versi javascript terbaru ES6
 * Variabel let mendukung kaidah global variable dan local variable  
 
-Aturan Penamaan Variabel :
+Atur''an Penamaan Variabel :
 * Harus meneskripsikan tentang data yang disimpan
 * Tidak bisa menggunakan number pada awal nama variable
 * Gunakan camelCase untuk penamaan yang lebih dari 1 kata  
@@ -106,7 +106,7 @@ Digunakan untuk menyimpan sebuah nilai pada variable
 <img src="js14.jpeg" width="200" height="100">  
 
 * Mathematical Assignment Operator  
-
+'
 <img src="js15.jpeg" width="200" height="100">  
 
 * Increment dan Decrement  
